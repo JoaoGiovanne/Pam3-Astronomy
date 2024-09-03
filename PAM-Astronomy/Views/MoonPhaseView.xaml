@@ -6,8 +6,8 @@
 
     <ContentPage.Resources>
         <ResourceDictionary>
-            <Color x:Key="textColor">White</Color>
-            <Color x:Key="boxColor">#44FFFFFF</Color>
+            <Color x:Key="textColor">Black</Color>
+            <Color x:Key="boxColor">#404040</Color>
             <Style TargetType="Label">
                 <Setter Property="TextColor" Value="{StaticResource textColor}" />
                 <Setter Property="HorizontalOptions" Value="Center" />
